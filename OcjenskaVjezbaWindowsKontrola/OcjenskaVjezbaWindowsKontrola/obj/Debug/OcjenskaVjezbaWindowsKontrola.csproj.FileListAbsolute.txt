@@ -1,0 +1,12 @@
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\OcjenskaVjezbaWindowsKontrola\OcjenskaVjezbaWindowsKontrola\bin\Debug\OcjenskaVjezbaWindowsKontrola.exe.config
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\OcjenskaVjezbaWindowsKontrola\OcjenskaVjezbaWindowsKontrola\bin\Debug\OcjenskaVjezbaWindowsKontrola.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\OcjenskaVjezbaWindowsKontrola\OcjenskaVjezbaWindowsKontrola\bin\Debug\OcjenskaVjezbaWindowsKontrola.pdb
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\OcjenskaVjezbaWindowsKontrola\OcjenskaVjezbaWindowsKontrola\obj\Debug\OcjenskaVjezbaWindowsKontrola.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\OcjenskaVjezbaWindowsKontrola\OcjenskaVjezbaWindowsKontrola\obj\Debug\OcjenskaVjezbaWindowsKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\OcjenskaVjezbaWindowsKontrola\OcjenskaVjezbaWindowsKontrola\obj\Debug\OcjenskaVjezbaWindowsKontrola.Form1.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\OcjenskaVjezbaWindowsKontrola\OcjenskaVjezbaWindowsKontrola\obj\Debug\OcjenskaVjezbaWindowsKontrola.Properties.Resources.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\OcjenskaVjezbaWindowsKontrola\OcjenskaVjezbaWindowsKontrola\obj\Debug\OcjenskaVjezbaWindowsKontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\OcjenskaVjezbaWindowsKontrola\OcjenskaVjezbaWindowsKontrola\obj\Debug\OcjenskaVjezbaWindowsKontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\OcjenskaVjezbaWindowsKontrola\OcjenskaVjezbaWindowsKontrola\obj\Debug\OcjenskaVjezbaWindowsKontrola.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\OcjenskaVjezbaWindowsKontrola\OcjenskaVjezbaWindowsKontrola\obj\Debug\OcjenskaVjezbaWindowsKontrola.pdb
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\OcjenskaVjezbaWindowsKontrola\OcjenskaVjezbaWindowsKontrola\obj\Debug\OcjenskaVjezbaWindowsKontrola.Text.resources
